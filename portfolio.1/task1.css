@@ -17,7 +17,7 @@ body{
 
 .container {
     width: 100%;
-    min-height: 590px;
+    height: 100vh;
     border: 1px solid black;
     position: relative;
     background-image: url(black.gif);
@@ -1715,4 +1715,5 @@ input:checked~.nava {
     .explore{
         row-gap: 38px;        
     }
+
 }
